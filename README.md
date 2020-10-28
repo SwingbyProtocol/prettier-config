@@ -2,10 +2,10 @@ A common Prettier config used in Swingby's projects.
 
 ## Quick start
 
-1. Install Prettier.
+1. Install Prettier and this package.
 
    ```bash
-   yarn add --dev prettier
+   yarn add --dev prettier @swingby-protocol/prettier-config
    ```
 
 2. Add the follow config file at the root of your project.
